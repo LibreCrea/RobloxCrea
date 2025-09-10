@@ -2,6 +2,10 @@
 
 ![Visitantes: 12K+](https://img.shields.io/badge/Visitantes-12K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
+
+![Vista Previa](https://static.beebom.com/wp-content/uploads/2025/04/Grow-a-Garden-codes.jpg?w=1250&quality=75)  
+
+
 **Descripción**  
 **RobloxCrea** es un recurso gratuito de 2025 para aprender a crear experiencias en Roblox Studio (1.20+). Diseñado para proyectos de un solo jugador, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub y Roblox. ¡Únete a 12K+ usuarios para desarrollar tu creatividad!  
 
@@ -36,7 +40,7 @@ RobloxCrea es exclusivamente para uso local en Roblox Studio (modo de un solo ju
 
 **Captura de Pantalla**  
 **RobloxCrea en Acción**  
-![Vista Previa](https://i.sooftcdn.com/screen/es/robloxcrea.png)  
+![Vista Previa](https://i.imgur.com/bqAExVI.png)  
 
 **Contribuir**  
 Abre un *issue* para sugerencias. Las contribuciones deben cumplir con los Términos de GitHub y Roblox.  
